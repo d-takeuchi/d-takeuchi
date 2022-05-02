@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-takeuchi
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-takeuchi&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
