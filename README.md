@@ -1,13 +1,13 @@
 # Hello 👋 <img src="https://komarev.com/ghpvc/?username=d-takeuchi" alt="d-takeuchi" /> 
 
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/1459316e5b30babe4514b651ec9a056a/0ee3e0aaf3f1cbac-e3/s400x600/d995ddf7dace1beb891a2fb9f7482213c5d21b78.gifv">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/d-takeuchi/d-takeuchi/blob/main/assets/hello-mini-yoda.gif">
 </div>
 
 <br/>
 <br/>
 
-<img hight="500" width="500" alt="GIF" align="right" src="https://c.tenor.com/UBem9pU9YgsAAAAC/yoru-valorant.gif">
+<img hight="500" width="500" alt="GIF" align="right" src="https://github.com/d-takeuchi/d-takeuchi/blob/main/assets/yoru-valorant.gif">
 
 ### - Recently Learning :
 - ✨ AWS
