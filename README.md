@@ -11,8 +11,12 @@
 
 ### - Recently Learning :
 - ✨ AWS
-- ✨ Algorithms
 - ✨ Laravel
+
+### - Interest:
+- ✨ OS(Linux)
+- ✨ Algorithms
+- ✨ Network
 
 ### - Hobbies : 
 - ✨ PC Game (League of Ledengs,Valorant ...etc)
