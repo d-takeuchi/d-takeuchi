@@ -10,13 +10,11 @@
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/d-takeuchi/d-takeuchi/blob/main/assets/yoru-valorant.gif">
 
 ### - Recently Learning :
-- ✨ AWS
-- ✨ Laravel
+- ✨ Next.js
+- ✨ TypeScript
 
 ### - Interest:
-- ✨ OS(Linux)
 - ✨ Algorithms
-- ✨ Network
 
 ### - Hobbies : 
 - ✨ PC Game (League of Ledengs,Valorant ...etc)
