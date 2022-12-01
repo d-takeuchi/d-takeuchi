@@ -12,6 +12,7 @@
 ### - Recently Learning :
 - ✨ Next.js
 - ✨ TypeScript
+- ✨ Nest.js
 
 ### - Interest:
 - ✨ Algorithms
