@@ -20,6 +20,13 @@
 - ✨ PC Game (League of Ledengs,Valorant ...etc)
 - ✨ Watching Movie & Anime
 
+### Certification
+- 基本情報技術者試験
+- 応用情報技術者試験
+- AWS SAA
+- CCNA
+- LPIC LV1
+
 <br/>
 
 # Languages & Tools 👨‍💻 🛠:
