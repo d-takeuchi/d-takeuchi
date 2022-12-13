@@ -26,7 +26,7 @@
 - 📚 応用情報技術者試験
 - 📚 AWS SAA
 - 📚 CCNA
-- 📚 LPIC LV1
+- 📚 LPIC LV1 (予定)
 
 <br/>
 
