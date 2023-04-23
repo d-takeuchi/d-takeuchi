@@ -10,18 +10,14 @@
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/d-takeuchi/d-takeuchi/blob/main/assets/yoru-valorant.gif">
 
 ### - Recently Learning :
-- ✨ Next.js
-- ✨ TypeScript
-- ✨ Nest.js
-
-### - Interest:
-- ✨ Algorithms
+- ✨ Go
+- ✨ Linux
 
 ### - Hobbies : 
 - ✨ PC Game (League of Ledengs,Valorant ...etc)
 - ✨ Watching Movie & Anime
 
-### - Certification
+### - Certification :
 - 📚 基本情報技術者試験
 - 📚 応用情報技術者試験
 - 📚 AWS SAA
