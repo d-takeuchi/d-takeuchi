@@ -22,7 +22,7 @@
 - 📚 応用情報技術者試験
 - 📚 AWS SAA
 - 📚 CCNA
-- 📚 LPIC LV1
+- 📚 LPIC LV2
 - 📚 OSSDB silver
 
 <br/>
