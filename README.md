@@ -10,8 +10,8 @@
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/d-takeuchi/d-takeuchi/blob/main/assets/yoru-valorant.gif">
 
 ### - Recently Learning :
-- ✨ Go
-- ✨ Linux
+- ✨ PHP
+- ✨ Laravel
 
 ### - Hobbies : 
 - ✨ PC Game (League of Ledends,Valorant ...etc)
